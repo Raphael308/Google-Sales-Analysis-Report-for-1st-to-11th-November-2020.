@@ -2,6 +2,7 @@
 This report analysis gives an overview on the google sales for 1st to 11th November 2020, it describes the sales report for each product, brand, devices and category.
 
 Google sales analysis report for 1st to 11th November 2020 focus on evaluating sales performance from google, it identifies trend in sales figure, brand performance, category, device usage and variant sales from 1st to 11th November.  The analysis and data visualization were done using Power BI, with data obtained from Kaggle. The key insights of the project are as follows:
+
 Major Findings:
 1. Total Sales and Categories:
 ·       The total sum of sales from November 1st to 11th, 2020, is $36,000.
@@ -21,6 +22,7 @@ Major Findings:
 6. Variant Sales:
 ·       The "Single Option Only" variant has the highest sales at $3,317.
 ·       Other variants like XL, SM, and XS have sales of $626, $549, and $423 respectively.
+
 Recommendations:
 1. Focus on High-Performing Brands:
 o   Continue to prioritize and promote Google products, as they are the top sellers.
